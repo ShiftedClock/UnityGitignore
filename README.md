@@ -1,2 +1,2 @@
 # UnityGitignore
-Gitignore for Unity3D
+Minimalist yet effective .gitignore for Unity3D.
